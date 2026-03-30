@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build outputs
+dist/
+build/
+*.apk
+*.aab
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Expo / React Native
+.expo/
+expo-env.d.ts
+web-build/
+
+# Backend logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
